@@ -181,10 +181,13 @@ section{
 #second{
     display: flex;
     flex-direction: row;
+    width: 100%
+    justify-content: space-evenly;
 }
 .gallery-box{
     overflow: hidden;
     border-radius: 8px;
+    width: 40%;
 }
 .img-box{
     overflow: hidden;
