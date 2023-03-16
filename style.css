@@ -179,6 +179,7 @@ section{
 /*     gap: 2.5rem; */
     margin-top: 5rem;
     overflow: hidden;
+    justify-content: space-evenly;
 }
 #second{
     display: flex;
@@ -189,7 +190,7 @@ section{
 .gallery-box{
     overflow: hidden;
     border-radius: 8px;
-    width: 40%;
+    width: 100%;
 }
 .img-box{
     overflow: hidden;
