@@ -195,7 +195,7 @@ section{
     border-radius: 8px;
 }
 .gallery img{
-    width: 40%;
+    width: 100%;
     border-radius: 8px;
     display: block;
     transition:all 0.5s ease-in-out;
